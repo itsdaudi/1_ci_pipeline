@@ -1,2 +1,3 @@
-mkdir day1-ci-lab
-cd day1-ci-lab
+# app.py
+def add(a, b):
+    return a + b
